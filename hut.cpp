@@ -11,7 +11,7 @@ glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
 glutCreateWindow("500041043");
 glutInitWindowPosition(10,10);
 glutInitWindowSize(1024,768);
-glutCreateWindow("500040399");
+glutCreateWindow("500040506");
 init();
 glutDisplayFunc(display);
 glutMainLoop();
